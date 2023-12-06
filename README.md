@@ -15,4 +15,4 @@ From this bootcamp we learn
   - Essentital Python for Data Analyst/Scientist
   - Dashboard (Power BI, Looker, Tableau)
 
-You can find me on Linkedin https://www.linkedin.com/in/warawutlorthong/
+You can find me on Linkedin : linkedin.com/in/warawutlorthong/
