@@ -1,0 +1,13 @@
+Enter <- function(n)
+{
+print("Enter 1 to Order Pizza")
+print("Enter 2 to Rock Paper Scissors Game")
+   userinput <- readLines("stdin", n=1)
+  if (userinput == 1 ) {
+    source("Pizza.r")
+  } 
+  else {
+    source("RockPaperSci.r")
+  }
+  }
+Enter()
